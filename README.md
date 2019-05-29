@@ -10,7 +10,7 @@ In my site we share some article about **programming, fun, game, news, politics,
 
 ## Site Address
 
-Live Version of site is [AMS-HQ](http://www.amshq.ir "AMS-HeadQuarter")
+Live Version of site is [AMS-HQ](http://www.amsl.ir "AMS-HeadQuarter")
 
 ## Notes
 
@@ -38,8 +38,7 @@ Live Version of site is [AMS-HQ](http://www.amshq.ir "AMS-HeadQuarter")
 
 **Graphics and Vectors**
 
-1. Hooman Bazjoo
-2. Some of my friends
+1. Some of my friends
 
 ## Credit
 
@@ -70,6 +69,10 @@ Michael Toronto
 Jake wandez
 
 Sameer Rahmani
+
+Narges Heydari
+
+Letajanna Wrowski
 
 Rooya Ebrahimi and Others maybe I write-off them :)
 
