@@ -8,9 +8,9 @@ Getting start , :)
 
 In my site we share some article about **programming, fun, game, news, politics, and other interested subjects**. Some of them maybe more political and you know Its better you will be anonymous to read them but I'm sure they are great. Another subject is you can share your knowledge too just **contact me** and I make a **writer and you go on**, write your articles and share them on time. So I don't think anything else remain to say here just go to website and explore them. Your **time** is one the most precious things in the world so take it. At the end I thanks some **buddies or guys, my friends, my girl frinds** and my other precious things that I have.
 
-## Site Address
+## Site Address [OLD - Outdated Not working in this domain anymore but archived]
 
-Live Version of site is [AMS-HQ](http://www.amsl.ir "AMS-HeadQuarter")
+Live Version of site is [AMS-HQ](http://amshq.amsl.ir "AMS-HeadQuarter")
 
 ## Notes
 
@@ -18,7 +18,7 @@ Live Version of site is [AMS-HQ](http://www.amsl.ir "AMS-HeadQuarter")
 
 **Note**: If any content or article has got bug or wrong and is under license manner just tell me, We'll talk about them.
 
-## Staff
+## Staff - Family - Related People
 
 **Admins**
 
@@ -33,10 +33,8 @@ Live Version of site is [AMS-HQ](http://www.amsl.ir "AMS-HeadQuarter")
 **Editors**
 
 1. Admins
-2. Fatemeh Safari Livari
-3. Some guys
 
-**Graphics and Vectors**
+**Relate People**
 
 1. Some of my friends
 
